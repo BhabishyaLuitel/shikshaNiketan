@@ -1,6 +1,6 @@
 import React from "react";
 import BlogCard from "./BlogCard";
-import Img1 from "../../assets/blog/manil Tiwari.jpg";
+import Img1 from "../../assets/blog/manil tiwari.jpg";
 import Img2 from "../../assets/blog/jonisha miss.jpg";
 import Img3 from "../../assets/blog/jibika miss.jpg";
 import Img4 from "../../assets/blog/bhabishya.JPG";
