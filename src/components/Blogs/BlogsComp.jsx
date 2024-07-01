@@ -3,9 +3,9 @@ import BlogCard from "./BlogCard";
 import Img1 from "../../assets/blog/manil tiwari.jpg";
 import Img2 from "../../assets/blog/jonisha miss.jpg";
 import Img3 from "../../assets/blog/jibika miss.jpg";
-import Img4 from "../../assets/blog/bhabishya.JPG";
-import Img5 from "../../assets/blog/dhanmani sir.JPG";
-import Img6 from "../../assets/blog/manita miss.JPG";
+import Img4 from "../../assets/blog/bhabishya.jpg";
+import Img5 from "../../assets/blog/dhanmani sir.jpg";
+import Img6 from "../../assets/blog/manita miss.jpg";
 
 const BlogsData = [
   {
